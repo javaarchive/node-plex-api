@@ -1,6 +1,6 @@
 # plex-api [![Build Status](https://api.travis-ci.org/phillipj/node-plex-api.png?branch=master)](http://travis-ci.org/phillipj/node-plex-api)
 
-Small module which helps you query the Plex Media Server HTTP API.
+Small module which helps you query the Plex Media Server HTTP API. Currently the fork has slightly better response parsing. 
 
 ## Usage
 
